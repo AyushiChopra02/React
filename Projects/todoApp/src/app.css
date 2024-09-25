@@ -1,0 +1,10 @@
+
+.todo-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.items-container {
+  margin-top: 20px;
+}
